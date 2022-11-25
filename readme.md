@@ -30,4 +30,6 @@ For Demos, First you need to create Main Azure Resources such as:
  3. output container (having resized jpg files automatically by Azure Function as soon as jpg file arrives in input container)
  4. Also, Create Logic Apps.(you find Logic Apps ARM templates and Parameters template(Json file))
  5. Create Azure Function App projects using Visual studio 2019 or Visual code. Azure Function code in (2 C# file having Azure Functions). In your solution you need to add .sdk for Blob bindings. Also Deploy Azure fucntions to Azure.
+ 
+ You will get more information at - https://medium.com/@meetalpa/how-to-integrate-azure-data-factory-azure-functions-logic-apps-the-easy-way-f4a0fd0eb2f0
     
