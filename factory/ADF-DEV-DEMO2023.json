@@ -1,0 +1,9 @@
+{
+	"name": "ADF-DEV-DEMO2023",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "834918d3-0321-4b97-8ad7-5ffe5c8ed4f8",
+		"tenantId": "c10d9100-7f58-4e3c-af7d-0cc0317096ea"
+	}
+}
