@@ -1,6 +1,12 @@
 {
 	"name": "ADF-DEV-DEMO2023",
 	"properties": {
+		"globalParameters": {
+			"test": {
+				"type": "string",
+				"value": "test"
+			}
+		},
 		"globalConfigurations": {
 			"PipelineBillingEnabled": "true"
 		}
